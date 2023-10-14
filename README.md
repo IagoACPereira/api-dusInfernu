@@ -47,6 +47,3 @@
     "num_faixa": 1,
     "album_id": 2
 }
-
-
-RPA "Pesquisar"
